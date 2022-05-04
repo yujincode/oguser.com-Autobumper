@@ -1,0 +1,38 @@
+Contact: yujin#4929
+
+Note: If the exension is refreshing continuously, disable it:
+  - Make sure that you are logged in.
+  - If you are already logged in and it is still refreshing, it will not work on your device.
+
+Installation:
+- Download and Unzip folder
+- Go to "chrome://extensions/"
+- Enable "Developer Mode" (Top Right)
+- Click "Load Unpacked"
+- Select the unzipped folder
+- Disable "Developer Mode"
+- Go to "https://ogu.gg/"
+- If you see "Autobumper: Deactivated", then Installation was successful
+
+Activate Autobumper:
+- Go to "https://ogu.gg/"
+- Click "Key" (Top Right)
+- Enter key in the pop-up box
+- Click "Ok"
+- If you see "Autobumper: Activated" (time), then Installation was successful
+
+Usage:
+- Go to "https://ogu.gg/newpoints.php?action=autobump" (this tab needs to be left open for the bumper to work.)
+- Go to a active thread on another tab
+- Click "Bump"/"Stop Bump" (Top Right) and enter a bump message
+- That's it!
+- You can autobump as many threads as you like but more than 10 is considered spamming and can get you a warning.
+
+Alerts:
+- This is an optional feature that sends all ogu alerts to a discord webhook.
+- Go to "https://ogu.gg/"
+- Click "Alerts" (Top Right)
+- Enter the discord webhook in the pop-up box
+- Click "Ok"
+- Refresh the tab where "https://ogu.gg/newpoints.php?action=autobump" is open.
+- If you see "Alerts: Activated", then it was successful

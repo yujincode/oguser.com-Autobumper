@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+
+  "name": "OGU Bumper",
+  "description": "Bumps posts to make them more accessible.",
+  "version": "3.0",
+
+  "icons": { "16": "icon.png"},
+  "permissions": ["unlimitedStorage"],
+  "content_scripts": [
+    {
+      "matches": ["https://ogu.gg/*"],
+      "js": ["inject.js"]
+    }
+  ],
+  "web_accessible_resources": [
+	{
+      "resources": ["jquery.js", "aes.js", "main.js"],
+      "matches": [ "https://ogu.gg/*" ]
+    }
+  ]
+}
