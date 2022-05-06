@@ -15,7 +15,7 @@
   ],
   "web_accessible_resources": [
 	{
-      "resources": ["jquery.js", "aes.js", "main.js"],
+      "resources": ["aes.js", "main.js"],
       "matches": [ "https://ogu.gg/*" ]
     }
   ]
