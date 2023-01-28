@@ -28,7 +28,7 @@ Usage:
 - That's it!
 - You can autobump as many threads as you like but more than 10 is considered spamming and can get you a warning.
 
-Alerts (Beta: May cause the autobumper to crash):
+Alerts:
 - This is an optional feature that sends all ogu alerts to a discord webhook.
 - Go to "https://ogu.gg/"
 - Click "Alerts" (Top Right)
