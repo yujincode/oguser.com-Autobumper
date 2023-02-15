@@ -25,7 +25,7 @@ Usage:
 - You can autobump as many threads as you like but more than 10 is considered spamming and can get you a warning.
 
 Alerts:
-- This is an optional feature that sends all ogu alerts to a discord webhook.
+- This is an optional feature that sends all ogu alerts & messages to a discord webhook.
 - Go to "https://ogu.gg/"
 - Click "Alerts" (Top Right)
 - Enter the discord webhook in the pop-up box
