@@ -7,18 +7,18 @@ Installation:
 - Click "Load Unpacked"
 - Select the unzipped folder
 - Disable "Developer Mode"
-- Go to "https://ogu.gg/"
+- Go to "https://flipd.gg/"
 - If you see "Autobumper: Deactivated", then Installation was successful
 
 Activate Autobumper:
-- Go to "https://ogu.gg/"
+- Go to "https://flipd.gg/"
 - Click "Key" (Top Right)
 - Enter key in the pop-up box
 - Click "Ok"
 - If you see "Autobumper: Activated" (time), then Activation was successful
 
 Usage:
-- Go to "https://ogu.gg/newpoints.php?action=autobump" (this tab needs to be left open for the bumper to work.)
+- Go to "https://flipd.gg/newpoints.php?action=autobump" (this tab needs to be left open for the bumper to work.)
 - Go to a active thread on another tab
 - Click "Autobump" (Top Right, next to your profile picture) and enter a bump message
 - That's it!
@@ -26,9 +26,9 @@ Usage:
 
 Alerts:
 - This is an optional feature that sends all ogu alerts & messages to a discord webhook.
-- Go to "https://ogu.gg/"
+- Go to "https://flipd.gg/"
 - Click "Alerts" (Top Right)
 - Enter the discord webhook in the pop-up box
 - Click "Ok"
-- Refresh the tab where "https://ogu.gg/newpoints.php?action=autobump" is open.
+- Refresh the tab where "https://flipd.gg/newpoints.php?action=autobump" is open.
 - If you see "Alerts: Activated", then it was successful
