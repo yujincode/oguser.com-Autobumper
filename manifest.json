@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
 
-  "name": "OGU Bumper",
+  "name": "Flipd Bumper",
   "description": "Bumps posts to make them more accessible.",
   "version": "3.0",
 
@@ -9,14 +9,14 @@
   "permissions": ["unlimitedStorage"],
   "content_scripts": [
     {
-      "matches": ["https://ogu.gg/*"],
+      "matches": ["https://flipd.gg/*"],
       "js": ["inject.js"]
     }
   ],
   "web_accessible_resources": [
 	{
       "resources": ["aes.js", "main.js"],
-      "matches": [ "https://ogu.gg/*" ]
+      "matches": [ "https://flipd.gg/*" ]
     }
   ]
 }
