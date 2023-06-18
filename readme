@@ -33,5 +33,5 @@ Alerts:
 - Click "Alerts" (Top Right)
 - Enter the discord webhook in the pop-up box
 - Click "Ok"
-- Refresh the tab where "https://flipd.gg/newpoints.php?action=autobump" is open.
 - If you see "Alerts: Activated", then it was successful
+- Refresh the tab where "https://flipd.gg/newpoints.php?action=autobump" is open.
