@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
 
-  "name": "Flipd.gg Autobumper",
+  "name": "Flipd Autobumper",
   "description": "Bumps posts to the top.",
   "version": "3.3",
 
@@ -10,18 +10,18 @@
   "content_scripts": [
     {
       "matches": ["https://flipd.gg/*"],
-      "js": ["inject-code.js"]
+      "js": ["inject.js"]
     },
     {
       "matches": ["https://challenges.cloudflare.com/*"],
-      "js": ["inject-code.js"], 
+      "js": ["cloudflare.js"], 
       "all_frames":true
     }
   ],
   "web_accessible_resources": [
-    {
-      "resources": ["jquery.js", "aes.js", "code-v2.js"],
-      "matches": ["https://flipd.gg/*"]
+	{
+      "resources": ["aes.js", "main.js"],
+      "matches": [ "https://flipd.gg/*" ]
     }
   ]
 }
