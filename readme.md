@@ -26,7 +26,7 @@ Usage:
 - Go to a active thread on another tab
 - Click "Autobump" (Top Right, next to your profile picture) and enter a bump message
 - That's it!
-- You can autobump as many threads as you like but more than 10 is considered spamming and can get you a warning.
+- You can autobump as many threads as you like.
 
 Alerts:
 - This is an optional feature that sends all ogu alerts & messages to a discord webhook.
