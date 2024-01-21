@@ -22,7 +22,9 @@ Activate Autobumper:
 - If you see "Autobumper: Activated" (time), then Activation was successful.
 
 Usage:
-- Go to "https://flipd.gg/newpoints.php?action=autobump" (this tab needs to be left open for the bumper to work).
+- Go to "https://flipd.gg/newpoints.php?action=autobump".
+  - This tab needs to be left open for the bumper to work
+  - It will also show information about when threads are going to be bumped
 - Go to a active thread on another tab.
 - Click "Autobump" (Top Right, next to your profile picture) and enter a bump message.
 - That's it!
