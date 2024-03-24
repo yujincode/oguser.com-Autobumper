@@ -22,7 +22,7 @@ Activate Autobumper:
 - If you see "Autobumper: Activated" (time), then Activation was successful.
 
 Usage:
-- Go to "https://flipd.gg/newpoints.php?action=autobump".
+- Go to "https://flipd.gg/autobumper".
   - This tab needs to be left open for the bumper to work.
   - It will also show information about when threads are going to be bumped.
 - Go to a active thread on another tab.
@@ -36,4 +36,4 @@ Alerts:
 - Click "Alerts" (Top Right).
 - Enter the discord webhook in the pop-up box.
 - If you see "Alerts: Activated", then it was successful.
-- Refresh the tab where "https://flipd.gg/newpoints.php?action=autobump" is open.
+- Refresh the tab where "https://flipd.gg/autobumper" is open.
