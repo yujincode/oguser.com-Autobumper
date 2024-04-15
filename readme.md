@@ -31,7 +31,7 @@ Usage:
 - You can autobump as many threads as you like.
 
 Alerts:
-- This is an optional feature that sends all ogu alerts & messages to a discord webhook.
+- This is an optional feature that sends all alerts & messages to a discord webhook.
 - Go to "https://flipd.gg/".
 - Click "Alerts" (Top Right).
 - Enter the discord webhook in the pop-up box.
