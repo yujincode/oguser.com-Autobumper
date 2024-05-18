@@ -3,13 +3,13 @@
 
   "name": "Flipd Autobumper",
   "description": "Bumps posts to the top.",
-  "version": "3.4",
+  "version": "3.5",
 
   "icons": { "16": "icon.png"},
   "permissions": ["unlimitedStorage"],
   "content_scripts": [
     {
-      "matches": ["https://flipd.gg/*"],
+      "matches": ["https://oguser.com/*"],
       "js": ["inject.js"]
     },
     {
@@ -21,7 +21,7 @@
   "web_accessible_resources": [
 	{
       "resources": ["aes.js", "main.js"],
-      "matches": [ "https://flipd.gg/*" ]
+      "matches": [ "https://oguser.com/*" ]
     }
   ]
 }
