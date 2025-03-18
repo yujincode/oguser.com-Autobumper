@@ -9,7 +9,6 @@ Installation:
 - Enable "Developer Mode" (Top Right).
 - Click "Load Unpacked".
 - Select the unzipped folder.
-- Disable "Developer Mode".
 - Go to "chrome://settings/performance" and disable "Memory Saver" or add "oguser.com" as an exception.
 - Go to "https://oguser.com/".
 - If you see "Autobumper: Deactivated", then Installation was successful.
